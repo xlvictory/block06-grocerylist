@@ -1,0 +1,48 @@
+
+
+h1 {
+    text-align: center;
+    color: paleturquoise;
+    font-size: 50px;
+    font-style: italic;
+}
+
+.sectionheaders {
+    color: lightskyblue;
+    border: solid white;
+    background-color: #4F4F4F;
+    border-width: 3px;
+    width: 25%;
+    text-align: center;
+    margin: 10px auto;
+}
+
+h3 {
+    color: aquamarine;
+    text-align: center;
+    text-decoration: underline wavy whitesmoke;
+    font-style: bold;
+}
+div {
+    border: dashed white;
+    border-width: 3px;
+    background-color: #4F4F4F;
+    margin: 10px;
+    padding: 20px;
+    width: 300px;
+    height: 250px
+}
+
+.list_items {
+    color: white;
+}
+
+.grocerylist {
+    display: inline-flex;
+}
+
+img {
+    width: 350px;
+    border: dashed white 3px;
+    padding: 5px;
+}
